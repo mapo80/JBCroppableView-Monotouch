@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBCroppableViewLibrary", "JBCroppableViewLibrary\JBCroppableViewLibrary.csproj", "{3E89E6F0-8846-4954-9592-0465CA11654E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBCroppableViewApp-Mono", "JBCroppableViewApp-Mono\JBCroppableViewApp-Mono.csproj", "{0EC17FCC-1D84-4073-AEA4-22EF7353295D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EC17FCC-1D84-4073-AEA4-22EF7353295D}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{0EC17FCC-1D84-4073-AEA4-22EF7353295D}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{0EC17FCC-1D84-4073-AEA4-22EF7353295D}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{0EC17FCC-1D84-4073-AEA4-22EF7353295D}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{0EC17FCC-1D84-4073-AEA4-22EF7353295D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{0EC17FCC-1D84-4073-AEA4-22EF7353295D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{0EC17FCC-1D84-4073-AEA4-22EF7353295D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{0EC17FCC-1D84-4073-AEA4-22EF7353295D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{0EC17FCC-1D84-4073-AEA4-22EF7353295D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{0EC17FCC-1D84-4073-AEA4-22EF7353295D}.Release|iPhone.Build.0 = Release|iPhone
+		{0EC17FCC-1D84-4073-AEA4-22EF7353295D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{0EC17FCC-1D84-4073-AEA4-22EF7353295D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{3E89E6F0-8846-4954-9592-0465CA11654E}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{3E89E6F0-8846-4954-9592-0465CA11654E}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{3E89E6F0-8846-4954-9592-0465CA11654E}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{3E89E6F0-8846-4954-9592-0465CA11654E}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{3E89E6F0-8846-4954-9592-0465CA11654E}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{3E89E6F0-8846-4954-9592-0465CA11654E}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{3E89E6F0-8846-4954-9592-0465CA11654E}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{3E89E6F0-8846-4954-9592-0465CA11654E}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{3E89E6F0-8846-4954-9592-0465CA11654E}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{3E89E6F0-8846-4954-9592-0465CA11654E}.Release|iPhone.Build.0 = Release|Any CPU
+		{3E89E6F0-8846-4954-9592-0465CA11654E}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{3E89E6F0-8846-4954-9592-0465CA11654E}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = JBCroppableViewApp-Mono\JBCroppableViewApp-Mono.csproj
+	EndGlobalSection
+EndGlobal
